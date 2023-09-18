@@ -1,0 +1,14 @@
+# E-Commerce-App (NextJS)
+
+**NextJS**'i deneyimlemek için geliştirdiğim bir projeydi. Responsive tasarımı için uğraşılmamıştır.
+
+**Not:** Projede gerçek bir veritabanı kullanılmamıştır, **json-server** paketi kullanılarak fake bir api oluşturulmuş ve projede bu api kullanılmıştır.
+
+
+### Deployment
+
+[https://e-commerce-next-js-phi.vercel.app/](https://e-commerce-next-js-phi.vercel.app/)
+
+
+### Projeye Ait Ekran Görüntüsü
+![1](https://lh3.googleusercontent.com/n5f5am41J9INXehhaFktlwhdqOR9-P6J6Mp9Wc79Qzo4qG_NMbxIWb_mJA8pw9RONLzXYf-lbWofbHpv0LQMyfI12e-1z_Bdl9WwJPycWkW6qSUqWT1_-Jo0-2ifDkZjulMi8kCSVwne_XnMKY6zHMG59hermhHwEd36cDCBVopKNrCEasMtyp-sFWyOyfuB5gwspEdAZZrTkN9W0ZRqIMY9iczcKYEWQVVLDFc7y44SZPXYErLIe6mBYhCJxAsNjPourz5glu8JI8aXN4BuLlU18NDEvQCrUr2SUQD5Htr_Am6lx-GgtjrUGL2glWGVYsY3RvJRP8Bt79clxva3SeOzCxhYuHxS2Qw6YS7C8tJ1JHs6nO0ZXAJAvYTnZZehBs9tGSStY8_lGrX_z9Jjd0W7aDI_gG-mVkHmXHmmS0LQihcLlnQdhNY_57CYP8EdQKOyghClg-0oInAgXu-BKzjPa7gswhE99Y8kzt2N0NC67m8zKqfYjWFVFOz2qW_T2uliQzt2DW54dy93DwwZbCJh-KHo2GIgKAlfMK5CPkbxmS1jp5YfwJYY8SR_zf5V2cHgMAsZiz4XObC0IWztCa0zpIq27rXc5hanoVAQyKFE2XnLDQebbQI8DhxJMeVvV1Q0nn_2t4m2Cyl77zL2TwSpUHLAEERJXbSdet_qzkGUednhmJdxH2hr_86iikNk4F5XHhcnoBCTmVpAICBtntLd0gMElLboVGm0kPMI9gWtI_4OyRbndOI6vbSz7gHztyTxV6q1jZlQyob-h6q7HdQETld1R6ifrMYmQGV8D9WZ1GwFZ8ITT9bOFCYYnScfJQT3e6AOd5WMVOQ7ugrAULQ1dnNnYTrsrXIRrQxad1f4XuxtnnsmxWQKDAFIB5l1P4tTToVN7xeq-aNW1DU2snlvjFDSS0Qwx7yQPlYGa-17=w299-h661-s-no?authuser=0)

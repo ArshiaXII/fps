@@ -1,0 +1,27 @@
+{
+  "name": "e-commerce-nextjs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "watch": "npx tailwindcss -i ./src/app/globals.css -o ./src/app/output.css --watch"
+  },
+  "dependencies": {
+    "@next/font": "13.1.2",
+    "date-and-time": "^2.4.2",
+    "formik": "^2.2.9",
+    "nanoid": "^4.0.0",
+    "next": "13.1.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.7.1",
+    "styled-components": "^5.3.6",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
