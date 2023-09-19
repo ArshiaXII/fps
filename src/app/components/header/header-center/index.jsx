@@ -17,7 +17,7 @@ function HeaderCenter() {
         <div className={S.row}>
           <CollapseMenuButton />
           <div className={S.logo}>
-            <Link href="/" className={S.logo1}>tech<span className={S.logo2}>market</span></Link>
+            <Link href="/" className={S.logo1}>fps<span className={S.logo2}>bilgisayar</span></Link>
           </div>
           <div className={S.searchDiv}>
             <SearchComp />
