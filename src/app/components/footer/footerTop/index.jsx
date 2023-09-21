@@ -9,7 +9,7 @@ export default function FooterTop() {
                 <div className={S.col}>
                     <div className={S.title}>SOSYAL MEDYA</div>
                     <div className={S.medias}>
-                        <a href="https://www.instagram.com/fpsbilgisayar/" target="_blank" rel="noreferrer">
+                        <a href="https://www.facebook.com/fpsbilgisayar" target="_blank" rel="noreferrer">
                             <div className={S.icon}>
                                 <FiFacebook />
                             </div>
