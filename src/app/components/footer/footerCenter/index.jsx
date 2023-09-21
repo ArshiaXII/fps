@@ -19,7 +19,7 @@ export default function FooterCenter() {
         </div>
         <div className={S.col}>
             <div className={S.title}>
-                BAŞLIK 1
+                BAŞLIK 2
             </div>
             <div className={S.content}>
                 <ul className={S.items}>
@@ -32,7 +32,7 @@ export default function FooterCenter() {
         </div>
         <div className={S.col}>
             <div className={S.title}>
-                BAŞLIK 1
+                BAŞLIK 3
             </div>
             <div className={S.content}>
                 <ul className={S.items}>
@@ -45,7 +45,7 @@ export default function FooterCenter() {
         </div>
         <div className={S.col}>
             <div className={S.title}>
-                BAŞLIK 1
+                BAŞLIK 4
             </div>
             <div className={S.content}>
                 <ul className={S.items}>
