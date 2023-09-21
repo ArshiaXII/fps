@@ -23,10 +23,12 @@ export default function FooterCenter() {
             </div>
             <div className={S.content}>
                 <ul className={S.items}>
-                    <li className={S.item}>Lorem, ipsum.</li>
-                    <li className={S.item}>Aut, aspernatur.</li>
-                    <li className={S.item}>Ullam, commodi!</li>
-                    <li className={S.item}>Explicabo, aspernatur!</li>
+                    <li className={S.item}>İşlem Rehberi</li>
+                    <li className={S.item}>Üyelik</li>
+                    <li className={S.item}>Ödeme ve güvenlik</li>
+                    <li className={S.item}>Kargo</li>
+                    <li className={S.item}>Arızalı Ürün İşlemleri</li>
+                    <li className={S.item}>Cayma Hakkı, İptal ve İade Koşulları</li>
                 </ul>
             </div>
         </div>
