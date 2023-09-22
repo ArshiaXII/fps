@@ -5,11 +5,11 @@ export default function index() {
   return (
     <div className={S.div}>
         <ul className={S.ul}>
-            <li className='cursor-pointer py-1 '>Lorem.</li>
-            <li className='cursor-pointer py-1 '>Iusto.</li>
-            <li className='cursor-pointer py-1 '>Odit?</li>
-            <li className='cursor-pointer py-1 '>Dignissimos!</li>
-            <li className='cursor-pointer py-1 '>Ab?</li>
+            <li className='cursor-pointer py-1 '>İşlemciler</li>
+            <li className='cursor-pointer py-1 '>Ekran Kartları</li>
+            <li className='cursor-pointer py-1 '>Anakartlar</li>
+            <li className='cursor-pointer py-1 '>Ramler</li>
+            <li className='cursor-pointer py-1 '>Depolama Birimleri</li>
         </ul>
     </div>
   )
