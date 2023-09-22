@@ -18,7 +18,7 @@ export default function FooterBottom() {
                 </div>
             </div>
             <div className={S.bottom}>
-                Arshia Sohrabi © © ©
+                © © ©
             </div>
         </div>
     )
